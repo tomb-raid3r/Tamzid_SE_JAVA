@@ -1,0 +1,6 @@
+CREATE TABLE Available_Products
+(ID INT,
+ Name VARCHAR(20),
+ Price FLOAT(8,2),
+ Profit_Percentage FLOAT(5,2),
+ Product_Type INT);
