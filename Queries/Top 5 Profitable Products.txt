@@ -1,0 +1,1 @@
+SELECT Name,Price,Profit_Percentage,Product_Type FROM Sold_Table ORDER BY Profit_Percentage DESC LIMIT 5
